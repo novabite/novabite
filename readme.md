@@ -4,4 +4,6 @@
   normal girl
   <br><br>
   <a href="https://novalite.rest/">my website</a> and <a href="https://novabite.github.io/">my guestbook</a>
+  <br><br>
+  maybe i'll make this pretty later (。_。)
 </p>
