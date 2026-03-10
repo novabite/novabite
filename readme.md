@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2xxmlb3165m1y1lzuegixflsg&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=9ea1ff&bar_color_cover=true">
+  </a>
+</p>
+<p align="center">
   <img src="https://novalite.rest/siteImage/I%20LOVE%20PILLOWCASE.png">
   <br><br>
   normal girl
