@@ -11,4 +11,6 @@
   <a href="https://novalite.rest/">my website</a> and <a href="https://novabite.github.io/">my guestbook</a>
   <br><br>
   maybe i'll make this pretty later (。_。)
+  <br><br>
+  dni if your name is erik and you don't shower
 </p>
