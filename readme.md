@@ -8,7 +8,7 @@
   <br><br>
   normal girl
   <br><br>
-  <a href="https://rentry.co/wellrested">rentry</a> and <a href="https://novabite.github.io/">my guestbook</a>
+  <a href="https://rentry.co/voiddream">rentry</a> and <a href="https://novabite.github.io/">my guestbook</a>
   <br><br>
   maybe i'll make this pretty later (。_。)
   <br><br>
